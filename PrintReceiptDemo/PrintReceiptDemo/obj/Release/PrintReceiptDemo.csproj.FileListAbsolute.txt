@@ -1,0 +1,7 @@
+X:\P\desk\PruebaMegaMas\PrintReceiptDemo\PrintReceiptDemo\obj\Release\PrintReceiptDemo.Form1.resources
+X:\P\desk\PruebaMegaMas\PrintReceiptDemo\PrintReceiptDemo\obj\Release\PrintReceiptDemo.frmPrint.resources
+X:\P\desk\PruebaMegaMas\PrintReceiptDemo\PrintReceiptDemo\obj\Release\PrintReceiptDemo.Properties.Resources.resources
+X:\P\desk\PruebaMegaMas\PrintReceiptDemo\PrintReceiptDemo\obj\Release\PrintReceiptDemo.csproj.GenerateResource.cache
+X:\P\desk\PruebaMegaMas\PrintReceiptDemo\PrintReceiptDemo\obj\Release\RdlCompile.cache
+X:\P\desk\PruebaMegaMas\PrintReceiptDemo\PrintReceiptDemo\obj\Release\RdlCompile.compiled
+X:\P\desk\PruebaMegaMas\PrintReceiptDemo\PrintReceiptDemo\obj\Release\PrintReceiptDemo.csproj.CoreCompileInputs.cache
